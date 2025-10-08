@@ -1,8 +1,7 @@
-Of course! Here is a comprehensive `README.md` file for the "Online-Blood-Donor-" GitHub repository. This README includes a project description, features, the technology stack used, and detailed setup instructions, including the necessary SQL schema to get the project running.
 
 ---
 
-```markdown
+
 # Online Blood Donor Management System
 
 This is a web-based application designed to manage blood donor information and connect individuals in need of blood with willing donors. The system provides a platform for users to register as donors, search for donors based on blood group and location, and for administrators to manage the overall system.
